@@ -1,0 +1,195 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>Andamio90 - Escuela de Teatro</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function mmLoadMenus() {
+  if (window.mm_menu_1030015840_0) return;
+    window.mm_menu_1030015840_0_1 = new Menu("Carreras",66,20,"Verdana, Arial, Helvetica, sans-serif",14,"#333333","#000000","#ffffff","#cccccc","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+    mm_menu_1030015840_0_1.addMenuItem("carre&nbsp;1");
+    mm_menu_1030015840_0_1.addMenuItem("carre&nbsp;2");
+     mm_menu_1030015840_0_1.fontWeight="bold";
+     mm_menu_1030015840_0_1.hideOnMouseOut=true;
+     mm_menu_1030015840_0_1.menuBorder=1;
+     mm_menu_1030015840_0_1.menuLiteBgColor='#ffffff';
+     mm_menu_1030015840_0_1.menuBorderBgColor='#555555';
+     mm_menu_1030015840_0_1.bgColor='#555555';
+  window.mm_menu_1030015840_0 = new Menu("root",108,20,"Verdana, Arial, Helvetica, sans-serif",14,"#333333","#000000","#ffffff","#cccccc","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_1030015840_0.addMenuItem("Academica");
+  mm_menu_1030015840_0.addMenuItem("Institucional");
+  mm_menu_1030015840_0.addMenuItem(mm_menu_1030015840_0_1);
+  mm_menu_1030015840_0.addMenuItem("Talleres");
+   mm_menu_1030015840_0.fontWeight="bold";
+   mm_menu_1030015840_0.hideOnMouseOut=true;
+   mm_menu_1030015840_0.childMenuIcon="img/arrows.gif";
+   mm_menu_1030015840_0.menuBorder=1;
+   mm_menu_1030015840_0.menuLiteBgColor='#ffffff';
+   mm_menu_1030015840_0.menuBorderBgColor='#555555';
+   mm_menu_1030015840_0.bgColor='#555555';
+
+  
+  
+  mm_menu_1030015840_0.writeMenus();
+} // mmLoadMenus()
+//-->
+</script>
+<script language="JavaScript1.2" src="img/mm_menu.js"></script>
+<script language="JavaScript1.2">mmLoadMenus();</script>
+<script language="JavaScript">
+<!--
+function mmLoadMenus() {
+  if (window.mm_menu_1030230526_0) return;
+    window.mm_menu_1030230526_0_1 = new Menu("Informaci&oacute;n&nbsp;Acad&eacute;mica",240,20,"Verdana, Arial, Helvetica, sans-serif",14,"#cccccc","#000000","#333333","#cccccc","left","middle",3,0,1000,0,0,true,true,true,0,true,true);
+    mm_menu_1030230526_0_1.addMenuItem("Calendario&nbsp;acad&eacute;mico");
+    mm_menu_1030230526_0_1.addMenuItem("Fechas&nbsp;de&nbsp;inscripci&oacute;n");
+    mm_menu_1030230526_0_1.addMenuItem("Mesas&nbsp;de&nbsp;ex&aacute;men");
+    mm_menu_1030230526_0_1.addMenuItem("Horarios&nbsp;de&nbsp;cursada");
+     mm_menu_1030230526_0_1.fontWeight="bold";
+     mm_menu_1030230526_0_1.hideOnMouseOut=true;
+     mm_menu_1030230526_0_1.menuBorder=0;
+     mm_menu_1030230526_0_1.menuLiteBgColor='#ffffff';
+     mm_menu_1030230526_0_1.menuBorderBgColor='#555555';
+     mm_menu_1030230526_0_1.bgColor='#555555';
+    window.mm_menu_1030230526_0_2 = new Menu("Informaci&oacute;n&nbsp;Institucional",252,20,"Verdana, Arial, Helvetica, sans-serif",14,"#cccccc","#000000","#333333","#cccccc","left","middle",3,0,1000,0,0,true,true,true,0,true,true);
+    mm_menu_1030230526_0_2.addMenuItem("Staff&nbsp;acad&eacute;mico","location='profesores.htm'");
+    mm_menu_1030230526_0_2.addMenuItem("Staff&nbsp;administrativo");
+    mm_menu_1030230526_0_2.addMenuItem("Art&iacute;culos&nbsp;de&nbsp;profesores");
+    mm_menu_1030230526_0_2.addMenuItem("Fotos&nbsp;de&nbsp;muestras");
+     mm_menu_1030230526_0_2.fontWeight="bold";
+     mm_menu_1030230526_0_2.hideOnMouseOut=true;
+     mm_menu_1030230526_0_2.menuBorder=0;
+     mm_menu_1030230526_0_2.menuLiteBgColor='#ffffff';
+     mm_menu_1030230526_0_2.menuBorderBgColor='#555555';
+     mm_menu_1030230526_0_2.bgColor='#555555';
+    window.mm_menu_1030230526_0_3 = new Menu("Carreras",178,20,"Verdana, Arial, Helvetica, sans-serif",14,"#cccccc","#000000","#333333","#cccccc","left","middle",3,0,1000,0,0,true,true,true,0,true,true);
+    mm_menu_1030230526_0_3.addMenuItem("Artes&nbsp;del&nbsp;teatro");
+    mm_menu_1030230526_0_3.addMenuItem("Profesorado");
+    mm_menu_1030230526_0_3.addMenuItem("Requisitos&nbsp;de&nbsp;ingreso");
+     mm_menu_1030230526_0_3.fontWeight="bold";
+     mm_menu_1030230526_0_3.hideOnMouseOut=true;
+     mm_menu_1030230526_0_3.menuBorder=0;
+     mm_menu_1030230526_0_3.menuLiteBgColor='#ffffff';
+     mm_menu_1030230526_0_3.menuBorderBgColor='#555555';
+     mm_menu_1030230526_0_3.bgColor='#555555';
+    window.mm_menu_1030230526_0_4 = new Menu("Talleres",178,20,"Verdana, Arial, Helvetica, sans-serif",14,"#cccccc","#000000","#333333","#cccccc","left","middle",3,0,1000,0,0,true,true,true,0,true,true);
+    mm_menu_1030230526_0_4.addMenuItem("Ver&nbsp;talleres");
+    mm_menu_1030230526_0_4.addMenuItem("Requisitos&nbsp;de&nbsp;ingreso");
+     mm_menu_1030230526_0_4.fontWeight="bold";
+     mm_menu_1030230526_0_4.hideOnMouseOut=true;
+     mm_menu_1030230526_0_4.menuBorder=0;
+     mm_menu_1030230526_0_4.menuLiteBgColor='#ffffff';
+     mm_menu_1030230526_0_4.menuBorderBgColor='#555555';
+     mm_menu_1030230526_0_4.bgColor='#555555';
+  window.mm_menu_1030230526_0 = new Menu("root",314,20,"Verdana, Arial, Helvetica, sans-serif",14,"#cccccc","#000000","#333333","#cccccc","left","middle",3,0,1000,0,0,true,true,true,0,true,true);
+  mm_menu_1030230526_0.addMenuItem("Quienes&nbsp;Somos");
+  mm_menu_1030230526_0.addMenuItem(mm_menu_1030230526_0_1);
+  mm_menu_1030230526_0.addMenuItem(mm_menu_1030230526_0_2);
+  mm_menu_1030230526_0.addMenuItem(mm_menu_1030230526_0_3);
+  mm_menu_1030230526_0.addMenuItem(mm_menu_1030230526_0_4);
+   mm_menu_1030230526_0.fontWeight="bold";
+   mm_menu_1030230526_0.hideOnMouseOut=true;
+   mm_menu_1030230526_0.childMenuIcon="img/arrows.gif";
+   mm_menu_1030230526_0.menuBorder=0;
+   mm_menu_1030230526_0.menuLiteBgColor='#ffffff';
+   mm_menu_1030230526_0.menuBorderBgColor='#555555';
+   mm_menu_1030230526_0.bgColor='#555555';
+  window.mm_menu_1030232006_1 = new Menu("root",157,20,"Verdana, Arial, Helvetica, sans-serif",14,"#cccccc","#000000","#333333","#cccccc","left","middle",3,0,1000,0,0,true,true,true,0,true,true);
+  mm_menu_1030232006_1.addMenuItem("Obras&nbsp;en&nbsp;Cartelera");
+  mm_menu_1030232006_1.addMenuItem("Fotos&nbsp;del&nbsp;Teatro");
+   mm_menu_1030232006_1.fontWeight="bold";
+   mm_menu_1030232006_1.hideOnMouseOut=true;
+   mm_menu_1030232006_1.menuBorder=0;
+   mm_menu_1030232006_1.menuLiteBgColor='#ffffff';
+   mm_menu_1030232006_1.menuBorderBgColor='#555555';
+   mm_menu_1030232006_1.bgColor='#555555';
+  window.mm_menu_1030232109_2 = new Menu("root",210,20,"Verdana, Arial, Helvetica, sans-serif",14,"#cccccc","#000000","#333333","#cccccc","left","middle",3,0,1000,0,0,true,true,true,0,true,true);
+  mm_menu_1030232109_2.addMenuItem("Biograf&iacute;a");
+  mm_menu_1030232109_2.addMenuItem("Fotos&nbsp;de&nbsp;Alejandra&nbsp;Boero");
+   mm_menu_1030232109_2.fontWeight="bold";
+   mm_menu_1030232109_2.hideOnMouseOut=true;
+   mm_menu_1030232109_2.menuBorder=0;
+   mm_menu_1030232109_2.menuLiteBgColor='#ffffff';
+   mm_menu_1030232109_2.menuBorderBgColor='#555555';
+   mm_menu_1030232109_2.bgColor='#555555';
+
+  mm_menu_1030232109_2.writeMenus();
+} // mmLoadMenus()
+//-->
+</script>
+<script language="JavaScript1.2" src="mm_menu.js"></script>
+<script src="../../Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+</head>
+
+<body bgcolor="#000000" leftmargin=0 topmargin=0 rightmargin=0 bottommargin=0 marginwidth=0 marginheight=0>
+<table width=700 border=0 align="center" cellpadding=0 cellspacing=0 bordercolor="#000000">
+  <tr>
+          
+    <td><img src="img/header.jpg" width="770" height="134"></td>
+        </tr>
+  <tr>
+    <td><table align="center" border="0" cellpadding="0" cellspacing="0" width="770">
+      <!-- fwtable fwsrc="menunuevo.png" fwbase="menunuevo.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+      <tr>
+        <td><img src="img/spacer.gif" alt="" name="undefined_2" width="146" height="1" border="0"></td>
+        <td><img src="img/spacer.gif" alt="" name="undefined_2" width="120" height="1" border="0"></td>
+        <td><img src="img/spacer.gif" alt="" name="undefined_2" width="221" height="1" border="0"></td>
+        <td><img src="img/spacer.gif" alt="" name="undefined_2" width="171" height="1" border="0"></td>
+        <td><img src="img/spacer.gif" alt="" name="undefined_2" width="112" height="1" border="0"></td>
+        <td><img src="img/spacer.gif" alt="" name="undefined_2" width="1" height="1" border="0"></td>
+      </tr>
+      <tr>
+        <td><a href="instituto.php"><img name="menunuevo_r1_c1" src="img/menunuevo_r1_c1.gif" width="146" height="35" border="0" alt=""></a></td>
+        <td><a href="teatro.php"><img name="menunuevo_r1_c2" src="img/menunuevo_r1_c2.gif" width="120" height="35" border="0" alt=""></a></td>
+        <td><a href="alejandra.php"><img name="menunuevo_r1_c3" src="img/menunuevo_r1_c3.gif" width="221" height="35" border="0" alt=""></a></td>
+        <td><img name="menunuevo_r1_c4" src="img/menunuevo_r1_c4.gif" width="171" height="35" border="0" alt=""></td>
+        <td><a href="mailto:info@andamio90.org"><img name="menunuevo_r1_c5" src="img/menunuevo_r1_c5.gif" width="112" height="35" border="0" alt=""></a></td>
+        <td><img src="img/spacer.gif" alt="" name="undefined_2" width="1" height="35" border="0"></td>
+      </tr>
+    </table></td>
+  </tr>
+	<tr>        </tr>
+	<tr>
+		
+    <td>  
+      <table cellspacing=0 cellpadding=0 border=0 width=100%>
+        <tr> 
+          <td background="file:///C|/Users/Administrador/Documents/Kekos/Layouts/Templates Monster por Categorias/0185 - disco/html/img/up_bg.gif"><script language="JavaScript1.2">mmLoadMenus();</script></td>
+        </tr>
+        <tr bgcolor="#333333"> 
+          <td height="231" valign="top" bgcolor="#FFFFFF"><p>&nbsp;</p>
+            <div align="center">
+            <?php
+$dbh=mysql_connect ("localhost", "andamio_cfincic","cfincic727") 
+or die('Que lo pario! No se conecta porque: ' . mysql_error());
+$dbb=mysql_select_db ("andamio_andamio",$dbh);
+$sql = "SELECT `id`, `nombre`, `diahora`, `fotochica` FROM `andamio_andamio`.`obras`"; 
+$resul = mysql_query($sql,$dbh);
+print"<table width='700' border='1' align='center' cellpadding='1' cellspacing='0'>";
+
+while ($perro = mysql_fetch_array($resul))
+{
+print"<tr>
+		<td align='center'>$perro[nombre]</td>
+		<td align='center'>$perro[diahora]</td>";
+		print"<td align='center' width='140'><img src='http://www.andamio90.org/images/$perro[fotochica]'></td>";
+		print"<td align='center' width='40'><a href='detalleobras.php?id=$perro[0]' target='blank'>Info</a></td></tr>";
+}
+print"</table>";
+mysql_close($dbh);
+?>
+          </div></td>
+        </tr>
+        <tr align="left" background="img/down_bg.gif"> 
+          <td><font color="#CCCCCC" size="4" face="Verdana, Arial, Helvetica, sans-serif"><strong> 
+            _ANDAMIO 90 </strong></font><font color="#CCCCCC" face="Verdana, Arial, Helvetica, sans-serif"> 
+            - Parana 662 p.1 CABA - Telefonos 4374-1484 / 4372-8386</font></td>
+        </tr>
+      </table>		</td>
+	</tr>
+</table>
+
+</body>
+</html>

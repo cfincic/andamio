@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Aporte Cristalab</title>
+
+<!-- Agrego ficheros -->
+<link type="text/css" rel="stylesheet" href="shadowbox.css"/>
+<script type="text/javascript" src="jquery-1.6.4.min.js"></script><!-- Omitir si Jquery ya esta incluido -->
+<script type="text/javascript" src="shadowbox.js"></script>
+<!-- Agrego ficheros -->
+<script type="text/javascript">/* Inicializo y agrego las opciones que quiera, las pueden encontrar aqui http://www.shadowbox-js.com/options.html */
+$().ready(function(){
+	
+	
+	Shadowbox.init( {
+	handleOversize: "drag",
+    modal: true
+	});
+	
+ });
+</script>
+
+
+</head>
+
+<body>
+<strong><a href="gato_cervecero.jpg" rel="shadowbox" title="Gato Ebrio" style="text-decoration:none">Una imagen Sencilla</a></strong><!-- el rel indica que se mostrara como shadowbox, y el title será el titulo  -->
+<br />
+<br />
+<strong><a href="1.jpg" rel="shadowbox[MiGaleria1]" title="Primera Foto" style="text-decoration:none">Galeria 1</a></strong>
+<!-- Mediante el rel tambien se pueden crear galerias y tener varias en un mismo documento  -->
+<br />
+<strong><a href="2.jpg" rel="shadowbox[MiGaleria1]" title="Segunda Foto" style="text-decoration:none">Galeria 2</a></strong>
+<br />
+<strong><a href="3.jpg" rel="shadowbox[MiGaleria1]" title="Tercera Foto" style="text-decoration:none">Galeria 3</a></strong>
+
+<br />
+<br />
+<!-- tambien puedo combinar distintos tipos de elementos en una galeria  -->
+<strong><a href="mix.jpg" rel="shadowbox[Combinados]" title="Fotos" style="text-decoration:none">Galeria Combinada (Fotos)</a></strong><!-- Fotos Simples  -->
+<br />
+<strong><a href="Dramatic_Chipmunk.swf" rel="shadowbox[Combinados];width=500;height=500" title="Pelicula SWF" style="text-decoration:none">Galeria Combinada (Video en SWF)</a></strong><!-- Peliculas en swf (en el rel se pone la galeria en la que irá y separados por ; el ancho y el alto de la pelicula)  -->
+<br />
+<strong><a href="The_OMG_Cat.mp4" rel="shadowbox[Combinados];width=500;height=500" title="Pelicula en MP4 (requiere plugin de  QuickTime)" style="text-decoration:none">Galeria Combinada(Video en MP4 (requiere plugin de  QuickTime))</a></strong><!-- Peliculas en MP4 (en el rel se pone la galeria en la que irá  y separados por ; el ancho y el alto de la pelicula)  -->
+<br />
+<strong><a href="htmlcargado.html" rel="shadowbox[Combinados];width=400;height=400" title="Contenido Html 1" style="text-decoration:none">Galeria Combinada (HTML externo)</a></strong><br />
+
+<strong><a href="contacto_teatro.php" rel="shadowbox;width=600;height=450" title="Contacto" style="text-decoration:none">Contacto</a></strong>
+
+
+<!-- Para ejecutar un contenido al cargar la pagina  
+
+<script>
+ window.setTimeout(function(){
+        Shadowbox.open({
+            content: 'The_OMG_Cat.swf', //el elemento que se va a cargar, tambien puede ser directamente html: ej: <h2>Hola Mundo</h2>
+            player: 'swf',   //el tipo de elemento** 
+			width: "640",//solo es requerido para videos
+			height: "390",//solo es requerido para videos
+			title: "OMG It´s Onload! =O",
+          });
+      }, 200);
+ 
+/* 
+
+** =  		img     Sirve para :   ['png', 'jpg', 'jpeg', 'gif', 'bmp']
+            swf     Sirve para :   ['swf'], 
+            flv     Sirve para :   ['flv'], 
+            qt      Sirve para :   ['dv', 'mov', 'moov', 'movie', 'mp4'], 
+            wmp     Sirve para :   ['asf', 'wm', 'wmv'], 
+            qtwmp   Sirve para :   ['avi', 'mpg', 'mpeg'], 
+            iframe  Sirve para :   ['asp', 'aspx', 'cgi', 'cfm', 'htm', 'html', 'pl', 'php', 
+                        'php3', 'php4', 'php5', 'phtml', 'rb', 'rhtml', 'shtml', 
+                        'txt', 'vbs', 'java'] 
+						
+*/
+</script>
+<!-- Para ejecutar un contenido al cargar la pagina   -->  
+
+
+</body>
+</html>
